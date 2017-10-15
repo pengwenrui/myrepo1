@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cars>
+
+
+    <information id="3">
+        <name>3</name>
+        <carry>H7734</carry>
+        <price>200</price>
+        <type>hc</type>
+        <sum>600</sum>
+    </information>
+    <information id="5">
+        <name>5</name>
+        <carry>K1289</carry>
+        <price>400</price>
+        <type>kc</type>
+        <sum>2000</sum>
+    </information>
+    <information id="9">
+        <name>9</name>
+        <carry>K8888</carry>
+        <price>300</price>
+        <type>pkc</type>
+        <sum>1200</sum>
+    </information>
+    <information id="6">
+        <name>6</name>
+        <carry>K1979</carry>
+        <price>200</price>
+        <type>kc</type>
+        <sum>800</sum>
+    </information>
+    <information id="4">
+        <name>4</name>
+        <carry>K1989</carry>
+        <price>300</price>
+        <type>kc</type>
+        <sum>900</sum>
+    </information>
+    <information id="7">
+        <name>7</name>
+        <carry>K1976</carry>
+        <price>500</price>
+        <type>pkc</type>
+        <sum>1000</sum>
+    </information>
+    <information id="2">
+        <name>2</name>
+        <carry>H7249</carry>
+        <price>200</price>
+        <type>hc</type>
+        <sum>400</sum>
+    </information>
+</cars>

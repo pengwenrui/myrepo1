@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cars>
+
+
+    <hc id="1">
+        <name>H7789</name>
+        <size>2</size>
+        <price>300</price>
+    </hc>
+
+
+    <hc id="3">
+        <name>H7734</name>
+        <size>2</size>
+        <price>200</price>
+    </hc>
+
+
+    <kc id="4">
+        <name>K1989</name>
+        <size>5</size>
+        <price>300</price>
+    </kc>
+
+    <kc id="5">
+        <name>K1289</name>
+        <size>2</size>
+        <price>400</price>
+    </kc>
+
+    <kc id="6">
+        <name>K1979</name>
+        <size>1</size>
+        <price>200</price>
+    </kc>
+
+    <pkc id="7">
+        <name>K1976</name>
+        <size>4</size>
+        <price>500</price>
+    </pkc>
+
+    <pkc id="8">
+        <name>K1555</name>
+        <size>2</size>
+        <price>400</price>
+    </pkc>
+
+    <pkc id="9">
+        <name>K8888</name>
+        <size>3</size>
+        <price>300</price>
+    </pkc>
+    <hc id="2">
+        <name>H7249</name>
+        <size>2</size>
+        <price>200</price>
+    </hc></cars>

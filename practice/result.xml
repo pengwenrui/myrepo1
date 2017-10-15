@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cars>
+
+
+    <table id="5">
+        <name>K1289</name>
+        <size>2</size>
+        <price>400</price>
+        <type>kc</type>
+        <sum>1200</sum>
+    </table>
+    <table id="8">
+        <name>K1555</name>
+        <size>2</size>
+        <price>400</price>
+        <type>pkc</type>
+        <sum>1600</sum>
+    </table>
+</cars>
